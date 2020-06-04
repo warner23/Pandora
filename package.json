@@ -18,7 +18,7 @@
     "mongojs": "~0.9.11",
     "nodemailer": "~0.6.5",
     "raw.js": "0.4.x",
-    "request": "~2.21.0",
+    "request": "~2.88.2",
     "socket.io": "~1.0.6",
     "tingodb": "^0.5.1",
     "twit": "~1.1.20",
